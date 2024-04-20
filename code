@@ -1,5 +1,7 @@
 import random
 import string
+import number
+import class
 
 def generate_short_code(length):
     characters = string.ascii_letters + string.digits
